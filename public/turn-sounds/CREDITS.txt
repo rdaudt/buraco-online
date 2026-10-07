@@ -1,0 +1,28 @@
+Turn-change animal sounds in Buraco Clube
+
+All clips are bundled locally. The source recordings were shortened, filtered,
+level-adjusted, faded, and converted to MP3 for use as brief notifications.
+
+turn-bark.mp3
+  “George vuf 1996.ogg” by Broadbeer, public domain.
+  https://commons.wikimedia.org/wiki/File:George_vuf_1996.ogg
+
+bark-02.mp3, bark-03.mp3
+  Excerpts from “Barking of a dog.ogg” by Amada44.
+  https://commons.wikimedia.org/wiki/File:Barking_of_a_dog.ogg
+  CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/
+  These edited excerpts are shared under CC BY-SA 3.0.
+
+bark-04.mp3, bark-05.mp3
+  Excerpts from “Barking of a dog 2.ogg” by Amada44.
+  https://commons.wikimedia.org/wiki/File:Barking_of_a_dog_2.ogg
+  CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/
+  These edited excerpts are shared under CC BY-SA 3.0.
+
+meow-01.mp3
+  “Maullido de gata hembra joven.ogg” by George Miquilena, CC0 1.0.
+  https://commons.wikimedia.org/wiki/File:Maullido_de_gata_hembra_joven.ogg
+
+meow-02.mp3, meow-03.mp3
+  Excerpts from “Meow of a pleading cat.oga” by Heismark, public domain.
+  https://commons.wikimedia.org/wiki/File:Meow_of_a_pleading_cat.oga

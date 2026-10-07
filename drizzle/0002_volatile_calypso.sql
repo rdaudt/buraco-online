@@ -1,0 +1,1 @@
+CREATE INDEX `idx_media_sessions_room_active_touched` ON `media_sessions` (`room_id`,`active`,`touched_at`);
